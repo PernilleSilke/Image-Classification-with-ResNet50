@@ -16,7 +16,10 @@ ResNet stands for Residual Network and more specifically it is of a Residual Neu
 Specifically, the ResNet50 model consists of 5 stages each with a residual block. Each residual block has 3 layers with both 1*1 and 3*3 convolutions. The concept of residual blocks is quite simple. In traditional neural networks, each layer feeds into the next layer. In a network with residual blocks, each layer feeds into the next layer and directly into the layers about 2–3 hops away, called identity connections. 
 
 ## Classification case: Labrador Retriever  
-In this example we are using Google Colaboratory to do the code. You can use this link to get an introduction to Colab and create your own code in python: [https://colab.research.google.com/notebooks/welcome.ipynb](https://colab.research.google.com/notebooks/welcome.ipynb)
+In this example we are using Google Colaboratory to do the code. You can use this link to get an introduction to Colab and create your own code in python: [https://colab.research.google.com/notebooks/welcome.ipynb]
+(https://colab.research.google.com/notebooks/welcome.ipynb)
+
+And here is the link to our Google Colab notebook, so you can se the codes in action: [https://colab.research.google.com/drive/1vF7AfZFil84TJALYGz8VuVTyO-PW1MZE](https://colab.research.google.com/drive/1vF7AfZFil84TJALYGz8VuVTyO-PW1MZE)
 
 When using colab, first, remember to change the runtime to GPU or else it will take a while when working with these deep learning networks.
 
