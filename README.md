@@ -1,2 +1,2 @@
-# Portfolio
-ResNet50 Image Classifier
+# Image classification with ResNet50
+
